@@ -12,13 +12,13 @@
 - H.S., Physical Science stream | Nalanda College, Colombo 10 (_August 2015_)
 
 ## Work Experience
-**Intern at NTT Research Physics and Informatics Laboratories (_June 2021 - August 2021 (Term 1) & July 2023 - Present (Term 2)_)**
+**Research intern at NTT Research Physics and Informatics Laboratories**
 
-*(Term 1)*
+*Term 1* - **(_June 2021 - August 2021)**
 - Implementation and evaluation of an efficient method to incorporate Zeeman terms on the Gaussian SDEs of CIM for improve the success probability.
 - Developed a codebase using GPU parallelisation (CUDA) for faster numerical simulations for large-scale problem instances.  
   
-*(Term 2)*
+*Term 2* - **(July 2023 - Present_)**
 - Cannot be discolsed until publication due to an non disclosure agreement.
 
 **Intern @ Jij Inc. (_February 2022 - March 2022_)**
