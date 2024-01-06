@@ -14,11 +14,11 @@
 ## Work Experience
 **Research intern at NTT Research Physics and Informatics Laboratories**
 
-*Term 1* - **(_June 2021 - August 2021)**
+*Term 1* - **(_June 2021 - August 2021_)**
 - Implementation and evaluation of an efficient method to incorporate Zeeman terms on the Gaussian SDEs of CIM for improve the success probability.
 - Developed a codebase using GPU parallelisation (CUDA) for faster numerical simulations for large-scale problem instances.  
   
-*Term 2* - **(July 2023 - Present_)**
+*Term 2* - **(_July 2023 - Present_)**
 - Cannot be discolsed until publication due to an non disclosure agreement.
 
 **Intern @ Jij Inc. (_February 2022 - March 2022_)**
@@ -42,29 +42,25 @@
 
 
 ## Projects
-### Mean-field coherent Ising machines with artificial Zeeman terms
+
+### Coherent Ising machines with artificial Zeeman terms
 [Publication](https://doi.org/10.1063/5.0176248)
+[Publication](https://doi.org/10.1038/s42005-022-00927-x)
 
 TBA
 
 ![Amplitude evolution](/assets/img/mfz_Figure_1.png)
+![CAC results](/assets/img/gac.webp)
 
-### Effective implementation of L0-regularised compressed sensing with chaotic-amplitude-controlled coherent Ising machines [Nature Scientific Reports - IF: 4.997]
+### Coherent Compressed Sensor
 [Publication](https://doi.org/10.1038/s41598-023-43364-8)
 
 TBA
 
 ![MRI reconstruction](/assets/img/gacs_Figure_6.png)
 
-### Control of amplitude homogeneity in Coherent Ising Machines with artificial Zeeman terms [Nature Communications Physics - IF: 6.497]
-[Publication](https://doi.org/10.1038/s42005-022-00927-x)
 
-TBA
-
-
-![CAC results](/assets/img/gac.webp)
-
-### Acceleration Technique of Two-Phase Quasi-Newton method with Momentum for Optimization Problems [IARIA The Twelfth International Conference on Information, Process, and Knowledge Management, eKNOW 2020]
+### Two-Phase Quasi-Newton method with Momentum
 [Publication](http://www.thinkmind.org/index.php?view=article&articleid=eknow_2020_2_60_60037)
 
 TBA
@@ -80,9 +76,9 @@ TBA
 - Invited Podcast talk with Mr. Ren on "Quantum Computers".
 
 ## Publications
-1. **Gunathilaka, M.D.S.H.**, Inui Y, Kako S, Yamamoto Y, Aonishi T. Mean-field coherent Ising machines with artificial Zeeman terms. Journal of Applied Physics. 2023;134(23):234901.
-2. **Gunathilaka, M.D.S.H.**, Kako, S., Inui, Y. et al. Effective implementation of l0-regularised compressed sensing with chaotic-amplitude-controlled coherent Ising machines. Sci Rep 13, 16140 (2023).
-3. Inui, Y., **Gunathilaka, M.D.S.H.**, Kako, S. et al. Control of amplitude homogeneity in coherent Ising machines with artificial Zeeman terms. Commun Phys 5, 154 (2022).
+1. **Gunathilaka, M.D.S.H.**, Inui Y, Kako S, Yamamoto Y, Aonishi T. Mean-field coherent Ising machines with artificial Zeeman terms. Journal of Applied Physics. 2023;134(23):234901. **[_Journal of Applied Physics - IF: 2.877_]**.
+2. **Gunathilaka, M.D.S.H.**, Kako, S., Inui, Y. et al. Effective implementation of l0-regularised compressed sensing with chaotic-amplitude-controlled coherent Ising machines. Sci Rep 13, 16140 (2023). **[_Nature Scientific Reports - IF: 4.997_]**.
+3. Inui, Y., **Gunathilaka, M.D.S.H.**, Kako, S. et al. Control of amplitude homogeneity in coherent Ising machines with artificial Zeeman terms. Commun Phys 5, 154 (2022). **[_Nature Communications Physics - IF: 6.497_]**.
 4. **M. D. S. H. Gunathilaka**, Mahboubi S and Ninomiya H, “Acceleration Technique of Two-Phase Quasi-Newton Method with Momentum for Optimization Problems” [2020] Thinkmind.org 59Hyper-Spectral Remote Sensing, 
 
 ## Positions 
