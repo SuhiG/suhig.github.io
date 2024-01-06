@@ -5,11 +5,15 @@
 > [Google Scholar](https://scholar.google.com/citations?user=AoeGGVQAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-3611-2795) | [Researchgate](https://www.researchgate.net/profile/Sudeera_Gunathilaka) | [Twitter](https://twitter.com/sudeera_etal) <br>
 > **Languages:** Sinhala (Native), English (Fluent), Japanese (Fluent)
 
+****
+
 ## Education
 - Ph.D., Artificial Intelligence | Tokyo Institute of Technology (_March 2025_)								       		
 - M.Eng., Artificial Intelligence | Tokyo Institute of Technology (_March 2022_)	 			        		
 - B.Eng., Information Science | Shonan Institute of Technology (_March 2020_)
 - H.S., Physical Science stream | Nalanda College, Colombo 10 (_August 2015_)
+
+****
 
 ## Work Experience
 **Research intern at NTT Research Physics and Informatics Laboratories**
@@ -32,6 +36,7 @@
 - Assisted teaching on Artificial intelligence, logic circuits and Java programming.
 
 ****
+
 ## Scholarships
 
 - Atsumi International foundation scholarship **(3,000,000 JPY ≈ 6,800,000 LKR)**
@@ -40,6 +45,7 @@
 - Rotary-Yoneyama memorial scholarship **(1,200,000 JPY ≈ 2,700,000 LKR)**
 - Monbukagakusho Honors Scholarship for Privately-Financed International Students **(576,000 JPY ≈ 1,300,000 LKR)**
 
+****
 
 ## Projects
 
@@ -67,6 +73,8 @@ TBA
 
 ![NAQ algorithm](/assets/img/naq.png)
 
+****
+
 ## Talks & Posters
 - Poster @ **QIP 2024, Taipei, Taiwan** on "L0-Regularised Compressed Sensing with Closed-loop Coherent Ising Machines"
 - Poster @ **CNC22, Stanford University** on "Effective implementation of L0-regularised compressed sensing with chaotic-amplitude-controlled coherent Ising machines"
@@ -75,11 +83,15 @@ TBA
 - Talk @ **Science Agora BEAST booth 2022**, Tokyo on "Combinatorial Optimisation with quantum and Ising machines".
 - Invited Podcast talk with Mr. Ren on "Quantum Computers".
 
+****
+
 ## Publications
 1. **Gunathilaka, M.D.S.H.**, Inui Y, Kako S, Yamamoto Y, Aonishi T. Mean-field coherent Ising machines with artificial Zeeman terms. Journal of Applied Physics. 2023;134(23):234901. **[_Journal of Applied Physics - IF: 2.877_]**.
 2. **Gunathilaka, M.D.S.H.**, Kako, S., Inui, Y. et al. Effective implementation of l0-regularised compressed sensing with chaotic-amplitude-controlled coherent Ising machines. Sci Rep 13, 16140 (2023). **[_Nature Scientific Reports - IF: 4.997_]**.
 3. Inui, Y., **Gunathilaka, M.D.S.H.**, Kako, S. et al. Control of amplitude homogeneity in coherent Ising machines with artificial Zeeman terms. Commun Phys 5, 154 (2022). **[_Nature Communications Physics - IF: 6.497_]**.
 4. **M. D. S. H. Gunathilaka**, Mahboubi S and Ninomiya H, “Acceleration Technique of Two-Phase Quasi-Newton Method with Momentum for Optimization Problems” [2020] Thinkmind.org 59Hyper-Spectral Remote Sensing, 
+
+****
 
 ## Positions 
 - Head of the Core-Committee of the Sri Lankan Professionals Association Japan – SLPAJ (Year 2022/23).
@@ -87,6 +99,8 @@ TBA
 - Student Ambassedor for Tokyo Institute of Technology. (2022/04 ~)
 - Assistant Treasurer of Rotary Yoneyama Sri Lanka Alumni Association. (2022/09 ~2023/09)
 - Organiser at Consciousness Club Tokyo (2022/10 ~)
+
+****
 
 ## Awards
 - Grade 3 holder on Music Theory from Associated Board of Royal School of Music, London, UK
