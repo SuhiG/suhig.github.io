@@ -3,7 +3,7 @@
 #### Technical Skills: C, C++, Python, MATLAB, Julia, Git, CUDA
 #### Interests: Unconventional Computing Architectures, Optimisation algorithms, Parallel / Quantum Computing, Deep / Machine learning, Compressed Sensing
 > [Google Scholar](https://scholar.google.com/citations?user=AoeGGVQAAAAJ&hl=en) <br>
-> Languages: Sinhala (Native), English (Fluent), Japanese (Fluent)
+> **Languages:** Sinhala (Native), English (Fluent), Japanese (Fluent)
 
 ## Education
 - Ph.D., Artificial Intelligence | Tokyo Institute of Technology (_March 2025_)								       		
@@ -32,6 +32,14 @@
 - Assisted teaching on Artificial intelligence, logic circuits and Java programming.
 
 ****
+## Scholarships
+
+- Atsumi International foundation scholarship **(3,000,000 JPY ≈ 6,800,000 LKR)**
+- Kobayashi Scholarship foundation scholarship **(6,480,000 JPY ≈ 14,700,000 LKR )**
+- Rotary-Yoneyama memorial scholarship (Club support) **(1,680,000 JPY ≈ 3,800,000 LKR)**
+- Rotary-Yoneyama memorial scholarship **(1,200,000 JPY ≈ 2,700,000 LKR)**
+- Monbukagakusho Honors Scholarship for Privately-Financed International Students **(576,000 JPY ≈ 1,300,000 LKR)**
+
 
 ## Projects
 ### Mean-field coherent Ising machines with artificial Zeeman terms
@@ -77,3 +85,16 @@ TBA
 3. Inui, Y., **Gunathilaka, M.D.S.H.**, Kako, S. et al. Control of amplitude homogeneity in coherent Ising machines with artificial Zeeman terms. Commun Phys 5, 154 (2022).
 4. **M. D. S. H. Gunathilaka**, Mahboubi S and Ninomiya H, “Acceleration Technique of Two-Phase Quasi-Newton Method with Momentum for Optimization Problems” [2020] Thinkmind.org 59Hyper-Spectral Remote Sensing, 
 
+## Positions 
+- Head of the Core-Committee of the Sri Lankan Professionals Association Japan – SLPAJ (Year 2022/23).
+- Administrative member of the student group BEAST. (2022~)
+- Student Ambassedor for Tokyo Institute of Technology. (2022/04 ~)
+- Assistant Treasurer of Rotary Yoneyama Sri Lanka Alumni Association. (2022/09 ~2023/09)
+- Organiser at Consciousness Club Tokyo (2022/10 ~)
+
+## Awards
+- Grade 3 holder on Music Theory from Associated Board of Royal School of Music, London, UK
+- Best performance in Japanese language, Nalanda College (2010)
+- ICSQCC 2013, Lucknow, India, member of the winning team of consolation prize for the "Bio-gas project" from Nalanda college. 
+- Faculty of engineering, department of Information science, Student excellence award, supplementary prize (2019)
+- Gold medalist at 4th South Asian Karate & Kobudo International tournament of Okinawa Shorinryu Shorinkan Association for both Kata & Kumite.
