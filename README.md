@@ -2,7 +2,7 @@
 
 #### Technical Skills: C, C++, Python, MATLAB, Julia, Git, CUDA
 #### Interests: Unconventional Computing Architectures, Optimisation algorithms, Parallel / Quantum Computing, Deep / Machine learning, Compressed Sensing
-> [Google Scholar](https://scholar.google.com/citations?user=AoeGGVQAAAAJ&hl=en)
+> [Google Scholar](https://scholar.google.com/citations?user=AoeGGVQAAAAJ&hl=en) <br>
 > Languages: Sinhala (Native), English (Fluent), Japanese (Fluent)
 
 ## Education
