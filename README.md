@@ -2,7 +2,7 @@
 
 #### Technical Skills: C, C++, Python, MATLAB, Julia, Git, CUDA
 #### Interests: Unconventional Computing Architectures, Optimisation algorithms, Parallel / Quantum Computing, Deep / Machine learning, Compressed Sensing
-> [Google Scholar](https://scholar.google.com/citations?user=AoeGGVQAAAAJ&hl=en) <br>
+> [Google Scholar](https://scholar.google.com/citations?user=AoeGGVQAAAAJ&hl=en) <space> [ORCID](https://orcid.org/0000-0003-3611-2795) <space> [Researchgate](https://www.researchgate.net/profile/Sudeera_Gunathilaka) <space> [Twitter](https://twitter.com/sudeera_etal) <br>
 > **Languages:** Sinhala (Native), English (Fluent), Japanese (Fluent)
 
 ## Education
