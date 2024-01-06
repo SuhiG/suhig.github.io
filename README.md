@@ -50,8 +50,8 @@
 ## Projects
 
 ### Coherent Ising machines with artificial Zeeman terms
-[Publication](https://doi.org/10.1063/5.0176248)
-[Publication](https://doi.org/10.1038/s42005-022-00927-x)
+[Publication 1](https://doi.org/10.1063/5.0176248)
+[Publication 2](https://doi.org/10.1038/s42005-022-00927-x)
 
 TBA
 
