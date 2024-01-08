@@ -89,7 +89,7 @@ TBA
 1. **Gunathilaka, M.D.S.H.**, Inui Y, Kako S, Yamamoto Y, Aonishi T. Mean-field coherent Ising machines with artificial Zeeman terms. Journal of Applied Physics. 2023;134(23):234901. **[_Journal of Applied Physics - IF: 2.877_]**.
 2. **Gunathilaka, M.D.S.H.**, Kako, S., Inui, Y. et al. Effective implementation of l0-regularised compressed sensing with chaotic-amplitude-controlled coherent Ising machines. Sci Rep 13, 16140 (2023). **[_Nature Scientific Reports - IF: 4.997_]**.
 3. Inui, Y., **Gunathilaka, M.D.S.H.**, Kako, S. et al. Control of amplitude homogeneity in coherent Ising machines with artificial Zeeman terms. Commun Phys 5, 154 (2022). **[_Nature Communications Physics - IF: 6.497_]**.
-4. **M. D. S. H. Gunathilaka**, Mahboubi S and Ninomiya H, “Acceleration Technique of Two-Phase Quasi-Newton Method with Momentum for Optimization Problems” [2020] Thinkmind.org 59Hyper-Spectral Remote Sensing, 
+4. **M. D. S. H. Gunathilaka**, Mahboubi S and Ninomiya H, “Acceleration Technique of Two-Phase Quasi-Newton Method with Momentum for Optimization Problems” [2020] Thinkmind.org 59. 
 
 ****
 
